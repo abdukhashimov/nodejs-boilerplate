@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/abdukhashimov/nodejs-boilerplate/issues"
   },
-  "homepage": "https://github.com/abdukhashimov/nodejs-boilerplate#readme"
+  "homepage": "https://github.com/abdukhashimov/nodejs-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
